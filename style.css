@@ -4,6 +4,19 @@ h1{
 p {
     color:black;
 }
+
+#pdiv{
+    height: 100px;
+    width:100%;
+    background-color: aqua;
+}
+.amarta {
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    color:aliceblue;
+    font-size: 50px;
+}
 .sourav {
     width: 200px;
     height: 100px;
@@ -14,4 +27,5 @@ p {
     height:100px;
     width:100px;
     background-color: blue;
+
 }
